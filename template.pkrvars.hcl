@@ -1,0 +1,6 @@
+image_prefix    = "ado-image"
+image_offer     = "ubuntu-24_04-lts"
+image_publisher = "Canonical"
+image_sku       = "server"
+vm_size         = "Standard_D4as_v6"
+image_version   = "1.02.26"
